@@ -1,0 +1,1 @@
+My website is a video translation software which can translate only english videos to any other 10 languages. My website uses streamlit as frontend, pymovie for video extraction, whisper for speech to text conversion, a text translation library for translation of text to the selected language and gtts for text to speech conversion.
