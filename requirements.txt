@@ -1,6 +1,6 @@
 streamlit
 openai-whisper
-moviepy
+moviepy.editor 
 gtts
 pydub
 torch
