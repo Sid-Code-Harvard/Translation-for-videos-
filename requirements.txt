@@ -1,0 +1,10 @@
+streamlit
+openai-whisper
+moviepy
+gtts
+pydub
+torch
+torchaudio
+torchvision
+transformers
+ffmpeg-python
